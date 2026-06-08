@@ -100,7 +100,8 @@ HTML
     </header>
 
     <div class="banner-container">
-        <img class="banner-img" src="http://googleusercontent.com/image_generation_content/0" alt="Cenário Sustentável Agrinho 2026">
+        <img class="banner-img" src="http://googleusercontent.com/https://aegro.com.br/images/blog/geradas/sustentabilidade-no-agronegocio-o-que-e-e-como-aplicar-na-sua-fazenda.webp
+    /0" alt="Cenário Sustentável Agrinho 2026">
     </div>
 
     <nav>
